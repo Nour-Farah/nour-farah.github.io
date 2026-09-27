@@ -40,15 +40,15 @@
   "design": {
     "preset": "zine",
     "color": {
-      "background": "#faf0f0",
-      "surface": "#ffffff",
-      "text": "#000000",
+      "background": "#000000",
+      "surface": "#fef590",
+      "text": "#ffffff",
       "muted": "#8a6f6f",
       "accent": "#f5e600",
       "accent2": "#5429ff",
-      "border": "#1a1a1a",
-      "link": "#ff4d8d",
-      "heading": "#1a1a1a"
+      "border": "#ffffff",
+      "link": "#f5e600",
+      "heading": "#ffffff"
     },
     "type": {
       "headingFont": "Schibsted Grotesk",
