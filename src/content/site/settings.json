@@ -7,15 +7,24 @@
   "portfolioLayout": "masonry",
   "columns": 3,
   "motionDefault": "full",
-  "rightClickProtect": false,
+  "rightClickProtect": true,
   "watermark": false,
   "watermarkText": "",
-  "protectFromAI": false,
+  "protectFromAI": true,
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
-  "metaDescription": "",
-  "socialLinks": [],
+  "metaDescription": "Artist | Brand & Package Designer | Print Production Experience",
+  "socialLinks": [
+    {
+      "label": "_nour_farah",
+      "url": "instagram.com/_nour_farah"
+    },
+    {
+      "label": "nostroke",
+      "url": "instagram.com/nostroke"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
