@@ -38,33 +38,33 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "zine",
+    "preset": "bauhaus",
     "color": {
-      "background": "#000000",
-      "surface": "#232323",
-      "text": "#ffffff",
-      "muted": "#c8c8c8",
-      "accent": "#fff000",
-      "accent2": "#ff4600",
-      "border": "#ffffff",
-      "link": "#ff4600",
-      "heading": "#ffffff"
+      "background": "#f5f1e6",
+      "surface": "#ffffff",
+      "text": "#16181d",
+      "muted": "#57564f",
+      "accent": "#1235d6",
+      "accent2": "#e61304",
+      "border": "#16181d",
+      "link": "#1235d6",
+      "heading": "#16181d"
     },
     "type": {
-      "headingFont": "SSchibsted Groteskchibsted Grotesk",
+      "headingFont": "Schibsted Grotesk",
       "bodyFont": "Space Grotesk",
       "headingWeight": 800,
       "bodyWeight": 400,
       "baseSize": 17,
-      "headingTransform": "uppercase",
+      "headingTransform": "none",
       "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 3,
-      "borderWidth": 3,
+      "radius": 0,
+      "borderWidth": 2,
       "shadows": "hard"
     },
-    "density": "airy",
+    "density": "normal",
     "contentWidth": "normal",
     "readingWidth": "relaxed",
     "motion": "smooth",
@@ -78,11 +78,11 @@
       "mode": "none"
     },
     "background": {
-      "type": "texture"
+      "type": "solid"
     },
     "thumb": {
-      "fit": "cover",
-      "hover": "lift"
+      "fit": "contain",
+      "hover": "zoom"
     },
     "gallery": {
       "layout": "masonry",
@@ -90,7 +90,7 @@
       "gutter": "normal",
       "caption": "hover",
       "cardStyle": "card",
-      "captionDetail": "minimal",
+      "captionDetail": "full",
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
@@ -98,11 +98,11 @@
       "filters": false
     },
     "lightbox": {
-      "transition": "slide",
-      "zoom": true
+      "transition": "fade",
+      "zoom": false
     },
     "hero": {
-      "enabled": false,
+      "enabled": true,
       "align": "left",
       "size": "small"
     },
