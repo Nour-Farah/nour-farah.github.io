@@ -26,21 +26,8 @@
     }
   ],
   "supportLinks": [],
-  "linksEnabled": true,
-  "links": [
-    {
-      "label": "Personal Page",
-      "url": "https://instagram.com/_nour_farah",
-      "icon": "@_nour_farah",
-      "featured": false
-    },
-    {
-      "label": "Artist Page",
-      "url": "https://instagram.com/nostroke",
-      "icon": "@nostroke",
-      "featured": false
-    }
-  ],
+  "linksEnabled": false,
+  "links": [],
   "searchEnabled": false,
   "cvAutoExhibitions": false,
   "commissionsMode": "form",
@@ -142,5 +129,5 @@
     }
   },
   "linksDisplayName": "Nour Farah",
-  "linksBio": "Brand & Pacckag"
+  "linksBio": "Brand & Package Designer | Artist"
 }
