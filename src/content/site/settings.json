@@ -41,17 +41,17 @@
     "preset": "zine",
     "color": {
       "background": "#000000",
-      "surface": "#454545",
+      "surface": "#232323",
       "text": "#ffffff",
-      "muted": "#646464",
+      "muted": "#c8c8c8",
       "accent": "#fff000",
-      "accent2": "#ffb400",
-      "border": "#ffb400",
-      "link": "#5900ff",
+      "accent2": "#ff4600",
+      "border": "#ffffff",
+      "link": "#ff4600",
       "heading": "#ffffff"
     },
     "type": {
-      "headingFont": "BBH Bartle",
+      "headingFont": "SSchibsted Groteskchibsted Grotesk",
       "bodyFont": "Space Grotesk",
       "headingWeight": 800,
       "bodyWeight": 400,
