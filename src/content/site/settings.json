@@ -111,7 +111,8 @@
       "credit": true
     },
     "favicon": {
-      "mode": "image"
+      "mode": "image",
+      "image": "/assets/favicon-pgkoq6.svg"
     },
     "pages": {
       "about": true,
