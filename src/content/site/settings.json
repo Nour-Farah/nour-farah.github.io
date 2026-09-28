@@ -40,31 +40,31 @@
   "design": {
     "preset": "zine",
     "color": {
-      "background": "#f0ff00",
-      "surface": "#f5501e",
-      "text": "#000000",
+      "background": "#000000",
+      "surface": "#454545",
+      "text": "#ffffff",
       "muted": "#646464",
-      "accent": "#f5501e",
-      "accent2": "#00b4ff",
-      "border": "#f5501e",
-      "link": "#f0ff00",
+      "accent": "#fff000",
+      "accent2": "#ffb400",
+      "border": "#ffb400",
+      "link": "#5900ff",
       "heading": "#ffffff"
     },
     "type": {
-      "headingFont": "Schibsted Grotesk",
+      "headingFont": "BBH Bartle",
       "bodyFont": "Space Grotesk",
       "headingWeight": 800,
       "bodyWeight": 400,
       "baseSize": 17,
-      "headingTransform": "none",
+      "headingTransform": "uppercase",
       "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 0,
-      "borderWidth": 2,
-      "shadows": "none"
+      "radius": 3,
+      "borderWidth": 3,
+      "shadows": "hard"
     },
-    "density": "normal",
+    "density": "airy",
     "contentWidth": "normal",
     "readingWidth": "relaxed",
     "motion": "smooth",
@@ -78,11 +78,11 @@
       "mode": "none"
     },
     "background": {
-      "type": "solid"
+      "type": "texture"
     },
     "thumb": {
       "fit": "cover",
-      "hover": "zoom"
+      "hover": "lift"
     },
     "gallery": {
       "layout": "masonry",
@@ -90,7 +90,7 @@
       "gutter": "normal",
       "caption": "hover",
       "cardStyle": "card",
-      "captionDetail": "full",
+      "captionDetail": "minimal",
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
@@ -98,8 +98,8 @@
       "filters": false
     },
     "lightbox": {
-      "transition": "fade",
-      "zoom": false
+      "transition": "slide",
+      "zoom": true
     },
     "hero": {
       "enabled": false,
