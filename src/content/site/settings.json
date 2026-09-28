@@ -40,14 +40,14 @@
   "design": {
     "preset": "zine",
     "color": {
-      "background": "#000000",
-      "surface": "#fef590",
-      "text": "#ffffff",
-      "muted": "#8a6f6f",
-      "accent": "#f5e600",
-      "accent2": "#5429ff",
-      "border": "#ffffff",
-      "link": "#f5e600",
+      "background": "#f0ff00",
+      "surface": "#f5501e",
+      "text": "#000000",
+      "muted": "#646464",
+      "accent": "#f5501e",
+      "accent2": "#00b4ff",
+      "border": "#f5501e",
+      "link": "#f0ff00",
       "heading": "#ffffff"
     },
     "type": {
