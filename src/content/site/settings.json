@@ -78,11 +78,11 @@
       "mode": "none"
     },
     "background": {
-      "type": "solid"
+      "type": "texture"
     },
     "thumb": {
       "fit": "contain",
-      "hover": "zoom"
+      "hover": "lift"
     },
     "gallery": {
       "layout": "masonry",
@@ -90,7 +90,7 @@
       "gutter": "normal",
       "caption": "hover",
       "cardStyle": "card",
-      "captionDetail": "full",
+      "captionDetail": "minimal",
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
@@ -98,8 +98,8 @@
       "filters": false
     },
     "lightbox": {
-      "transition": "fade",
-      "zoom": false
+      "transition": "slide",
+      "zoom": true
     },
     "hero": {
       "enabled": true,
@@ -108,7 +108,7 @@
     },
     "footer": {
       "socials": true,
-      "credit": true
+      "credit": false
     },
     "favicon": {
       "mode": "initials"
