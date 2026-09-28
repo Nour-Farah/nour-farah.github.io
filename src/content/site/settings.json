@@ -1,6 +1,6 @@
 {
   "siteTitle": "Nour Farah",
-  "tagline": "Tahgline Woohooo",
+  "tagline": "",
   "logoText": "Nour Farah",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
@@ -25,12 +25,7 @@
       "url": "https://instagram.com/nostroke"
     }
   ],
-  "supportLinks": [
-    {
-      "label": "nothing",
-      "url": "google.com"
-    }
-  ],
+  "supportLinks": [],
   "linksEnabled": false,
   "links": [],
   "searchEnabled": false,
