@@ -108,7 +108,7 @@
     },
     "footer": {
       "socials": true,
-      "credit": false
+      "credit": true
     },
     "favicon": {
       "mode": "initials"
