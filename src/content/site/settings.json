@@ -14,7 +14,7 @@
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
-  "metaDescription": "Artist | Brand & Package Designer | Print Production Experience",
+  "metaDescription": "Best Graphic Designer in the World | Number one Brand Designer | #1 Package Designer | Also and Artist",
   "socialLinks": [
     {
       "label": "@_nour_farah",
@@ -26,8 +26,21 @@
     }
   ],
   "supportLinks": [],
-  "linksEnabled": false,
-  "links": [],
+  "linksEnabled": true,
+  "links": [
+    {
+      "label": "Personal Page",
+      "url": "https://instagram.com/_nour_farah",
+      "icon": "@_nour_farah",
+      "featured": false
+    },
+    {
+      "label": "Artist Page",
+      "url": "https://instagram.com/nostroke",
+      "icon": "@nostroke",
+      "featured": false
+    }
+  ],
   "searchEnabled": false,
   "cvAutoExhibitions": false,
   "commissionsMode": "form",
@@ -127,5 +140,7 @@
       "projects": true,
       "stockists": false
     }
-  }
+  },
+  "linksDisplayName": "Nour Farah",
+  "linksBio": "Brand & Pacckag"
 }
