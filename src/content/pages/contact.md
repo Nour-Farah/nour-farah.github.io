@@ -1,5 +1,7 @@
 ---
 title: Contact
+intro: Contact
+email: hello@nourfarah.com
 formEnabled: true
 ---
 
