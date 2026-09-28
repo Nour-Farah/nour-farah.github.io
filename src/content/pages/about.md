@@ -1,6 +1,6 @@
 ---
 title: About
-statement: Graphic Designer & Artist Specializing in Branding and Packaging Design
+statement: Brand & Packaging Designer | Artist
 ---
 
 Graphic and Multi Media design Graduate
