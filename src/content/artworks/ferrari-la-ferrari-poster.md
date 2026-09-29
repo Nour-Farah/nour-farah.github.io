@@ -24,6 +24,6 @@ The simple 6 x 4 grid, together with the small details (like the repeating flag 
 
 And most importantly, what ties the poster series together is the layout of the pictures
 
-The positioning of the pictures, as well as the choice of picture in each position guide the viewer's eye in this wide valley curve
+(This is more visible if you squint)
 
-(This is most visible when you squint)
+The positioning of the pictures, as well as the choice of picture in each position guide the viewer's eye in this wide valley curve
