@@ -60,8 +60,8 @@
       "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 0,
-      "borderWidth": 2,
+      "radius": 2,
+      "borderWidth": 3,
       "shadows": "hard"
     },
     "density": "normal",
@@ -75,7 +75,8 @@
       "landing": "work"
     },
     "logo": {
-      "mode": "image"
+      "mode": "image",
+      "image": "/assets/logo-phkn8z.svg"
     },
     "background": {
       "type": "texture"
@@ -94,11 +95,11 @@
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "lightbox",
+      "click": "page",
       "filters": false
     },
     "lightbox": {
-      "transition": "slide",
+      "transition": "fade",
       "zoom": true
     },
     "hero": {
