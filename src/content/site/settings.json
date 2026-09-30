@@ -60,8 +60,8 @@
       "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 6,
-      "borderWidth": 4,
+      "radius": 0,
+      "borderWidth": 3,
       "shadows": "soft"
     },
     "density": "normal",
@@ -92,9 +92,9 @@
       "caption": "hover",
       "cardStyle": "card",
       "captionDetail": "minimal",
-      "captionOverlay": "scrim",
+      "captionOverlay": "surface",
       "featureFirst": false,
-      "adaptiveSpans": false,
+      "adaptiveSpans": true,
       "click": "page",
       "filters": false
     },
