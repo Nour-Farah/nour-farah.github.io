@@ -60,14 +60,14 @@
       "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 2,
-      "borderWidth": 3,
-      "shadows": "hard"
+      "radius": 6,
+      "borderWidth": 4,
+      "shadows": "soft"
     },
     "density": "normal",
     "contentWidth": "normal",
     "readingWidth": "relaxed",
-    "motion": "smooth",
+    "motion": "rigid",
     "nav": {
       "layout": "side"
     },
@@ -83,16 +83,16 @@
     },
     "thumb": {
       "fit": "contain",
-      "hover": "lift"
+      "hover": "zoom"
     },
     "gallery": {
-      "layout": "masonry",
+      "layout": "grid",
       "size": "medium",
       "gutter": "normal",
       "caption": "hover",
       "cardStyle": "card",
       "captionDetail": "minimal",
-      "captionOverlay": "surface",
+      "captionOverlay": "scrim",
       "featureFirst": false,
       "adaptiveSpans": false,
       "click": "page",
