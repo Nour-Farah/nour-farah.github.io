@@ -11,4 +11,4 @@ order: 0
 
 bla bla bla
 
-![Mouvo_Conceptual_Poster_Series_all_together](Markdown_Assets/MP1.jpg")
+![Mouvo_Conceptual_Poster_Series_all_together](Markdown_Assets/MP1.jpg)
