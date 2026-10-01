@@ -94,7 +94,7 @@
       "captionDetail": "minimal",
       "captionOverlay": "surface",
       "featureFirst": false,
-      "adaptiveSpans": true,
+      "adaptiveSpans": false,
       "click": "page",
       "filters": false
     },
