@@ -82,7 +82,7 @@
       "type": "texture"
     },
     "thumb": {
-      "fit": "contain",
+      "fit": "cover",
       "hover": "zoom"
     },
     "gallery": {
