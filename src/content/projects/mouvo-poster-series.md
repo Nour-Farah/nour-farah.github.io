@@ -11,4 +11,4 @@ order: 0
 
 bla bla bla
 
-![Mouvo_Conceptual_Poster_Series_all_together](Markdown_Assets/Mouvo_Conceptual_Poster_Series_all_together.webp)
+![Mouvo_Conceptual_Poster_Series_all_together](Mouvo_Conceptual_Poster_Series_all_together.webp "Mouvo Poster Series")
