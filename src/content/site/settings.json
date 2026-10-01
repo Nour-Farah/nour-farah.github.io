@@ -86,8 +86,8 @@
       "hover": "zoom"
     },
     "gallery": {
-      "layout": "grid",
-      "size": "large",
+      "layout": "masonry",
+      "size": "medium",
       "gutter": "normal",
       "caption": "hover",
       "cardStyle": "card",
