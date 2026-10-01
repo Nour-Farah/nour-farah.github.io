@@ -11,4 +11,4 @@ order: 0
 
 bla bla bla
 
-<img src="/Markdown_Assets/MP1.jpg" alt="Mouvo Poster" width="800">
+<img src="/Markdown_Assets/MP2.png" alt="Mouvo Poster" width="800">
