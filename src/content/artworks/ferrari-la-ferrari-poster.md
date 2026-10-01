@@ -14,7 +14,7 @@ protected: true
 
 One of the world's best cars
 
-The Ferrari La Ferrari
+**The Ferrari La Ferrari**
 
 Made into a poster series
 
