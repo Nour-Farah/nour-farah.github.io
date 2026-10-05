@@ -3,7 +3,6 @@ image: ../../assets/artworks/the-cylinder-and-the-cube-s9iuqw.png
 title: The Cylinder and The Cube
 status: inquire
 alt: The Title of a 3D animation
-video: https://youtu.be/7bOOMMzu5y4
 order: 0
 featured: false
 protected: true
