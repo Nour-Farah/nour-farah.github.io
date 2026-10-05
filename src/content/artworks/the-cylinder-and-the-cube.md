@@ -14,4 +14,4 @@ This project demonstrates my approach to creating simple yet refined 3D composit
 
 Made using 3Ds Max
 
-Click [Here](https://youtu.be/7bOOMMzu5y4) for the animation
+Click <a href="https://youtu.be/7bOOMMzu5y4" target="_blank">Here</a> for the animation
