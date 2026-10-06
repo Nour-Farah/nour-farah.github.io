@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/the-cylinder-and-the-cube-s9iuqw.png
+image: ../../assets/artworks/the-cylinder-and-the-cube-jkqi2v.webp
 title: The Cylinder and The Cube
 status: inquire
 alt: The Title of a 3D animation
