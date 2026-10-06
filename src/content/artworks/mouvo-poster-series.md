@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/mouvo-poster-series-cyh9sp.webp
+image: ../../assets/artworks/mouvo-poster-series-agp2cm.webp
 images:
   - ../../assets/artworks/mouvo-poster-series-yl2vyd.webp
   - ../../assets/artworks/mouvo-poster-series-9ed5b5.webp
