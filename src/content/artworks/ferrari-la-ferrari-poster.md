@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/ferrari-la-ferrari-poster-cvakm7.webp
+image: ../../assets/artworks/ferrari-la-ferrari-poster-7mllpw.webp
 images:
   - ../../assets/artworks/ferrari-la-ferrari-poster-clbqli.webp
   - ../../assets/artworks/ferrari-la-ferrari-poster-4r4wqu.webp
