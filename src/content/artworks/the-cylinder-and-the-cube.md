@@ -18,4 +18,4 @@ Click <a href="https://youtu.be/7bOOMMzu5y4" target="_blank">Here</a> for the an
 
 This is an image:
 
-![BLA BLA](https://github.com/Nour-Farah/nour-farah.github.io/blob/main/Markdown_Assets/MP1.jpg)
+![BLA BLA](https://github.com/Nour-Farah/nour-farah.github.io/blob/main/src/assets/artworks/ferrari-la-ferrari-poster-clbqli.webp)
