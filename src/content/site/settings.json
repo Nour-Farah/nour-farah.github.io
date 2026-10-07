@@ -7,7 +7,7 @@
   "portfolioLayout": "masonry",
   "columns": 3,
   "motionDefault": "full",
-  "rightClickProtect": false,
+  "rightClickProtect": true,
   "watermark": false,
   "watermarkText": "",
   "protectFromAI": true,
