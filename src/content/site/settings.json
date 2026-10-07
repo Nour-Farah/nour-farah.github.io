@@ -126,7 +126,7 @@
       "presskit": false,
       "commissions": true,
       "shop": false,
-      "projects": false,
+      "projects": true,
       "stockists": false
     }
   },
