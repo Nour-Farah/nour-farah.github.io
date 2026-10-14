@@ -62,7 +62,7 @@
     "shape": {
       "radius": 0,
       "borderWidth": 3,
-      "shadows": "hard"
+      "shadows": "none"
     },
     "density": "normal",
     "contentWidth": "normal",
