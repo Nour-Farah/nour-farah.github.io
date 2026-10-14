@@ -62,12 +62,12 @@
     "shape": {
       "radius": 0,
       "borderWidth": 3,
-      "shadows": "none"
+      "shadows": "hard"
     },
-    "density": "normal",
+    "density": "airy",
     "contentWidth": "normal",
     "readingWidth": "relaxed",
-    "motion": "smooth",
+    "motion": "rigid",
     "nav": {
       "layout": "side"
     },
