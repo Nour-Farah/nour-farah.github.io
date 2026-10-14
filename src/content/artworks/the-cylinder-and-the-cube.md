@@ -18,4 +18,4 @@ Click <a href="https://youtu.be/7bOOMMzu5y4" target="_blank">Here</a> for the an
 
 This is an image:
 
-<img src="https://res.cloudinary.com/iquk7s3z/image/upload/v1791976765/Rim_1-01.webp" alt=Rim 1/>
+<img src="res.cloudinary.com/iquk7s3z/image/upload/v1791976765/Rim_1-01.webp" alt=Rim 1/>
