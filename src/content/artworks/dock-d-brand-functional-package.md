@@ -3,7 +3,7 @@ image: ../../assets/artworks/dock-d-brand-functional-package-az5q8g.webp
 title: Dock'd Brand & Functional Package
 status: inquire
 alt: Dockd Thumbnail
-order: 5
+order: 1
 featured: false
 protected: true
 ---

@@ -6,7 +6,7 @@ images:
 title: Rim x Día de los Muertos
 status: inquire
 alt: Rim x Día de los Muertos Label Design
-order: 1
+order: 2
 featured: false
 protected: true
 ---
