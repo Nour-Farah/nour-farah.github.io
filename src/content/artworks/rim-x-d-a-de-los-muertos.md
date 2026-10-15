@@ -14,5 +14,5 @@ protected: true
 A conceptual collaboration that reimagines RIM's water bottle label through
 the vibrant spirit of Día de los Muertos
 
-![Rim 1](/res.cloudinary.com/iquk7s3z/image/upload/v1792095324/Rim1.webp)
-![Rim 2](/res.cloudinary.com/iquk7s3z/image/upload/v1792095324/Rim2.webp)
+![Rim 1](https://res.cloudinary.com/iquk7s3z/image/upload/v1792095324/Rim1.webp)
+![Rim 2](https://res.cloudinary.com/iquk7s3z/image/upload/v1792095324/Rim2.webp)
