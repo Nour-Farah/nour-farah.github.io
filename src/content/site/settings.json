@@ -86,15 +86,15 @@
       "hover": "zoom"
     },
     "gallery": {
-      "layout": "grid",
+      "layout": "masonry",
       "size": "medium",
       "gutter": "normal",
       "caption": "hover",
       "cardStyle": "card",
       "captionDetail": "minimal",
       "captionOverlay": "surface",
-      "featureFirst": false,
-      "adaptiveSpans": true,
+      "featureFirst": true,
+      "adaptiveSpans": false,
       "click": "page",
       "filters": false
     },
