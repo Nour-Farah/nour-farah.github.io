@@ -5,7 +5,7 @@ images:
 title: We're Still Standing Poster Series
 status: inquire
 alt: A poster series about the persistence of the Lebanese country
-order: 4
+order: 6
 featured: false
 protected: true
 ---
