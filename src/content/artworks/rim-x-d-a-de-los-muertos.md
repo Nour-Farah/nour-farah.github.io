@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/rim-x-d-a-de-los-muertos-fijwvq.webp
+image: ../../assets/artworks/rim-x-d-a-de-los-muertos-l3dtub.webp
 images:
   - ../../assets/artworks/rim-x-d-a-de-los-muertos-msese8.webp
   - ../../assets/artworks/rim-x-d-a-de-los-muertos-ya9m0c.webp
