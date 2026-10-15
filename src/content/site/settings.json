@@ -87,7 +87,7 @@
     },
     "gallery": {
       "layout": "grid",
-      "size": "medium",
+      "size": "large",
       "gutter": "normal",
       "caption": "hover",
       "cardStyle": "card",
