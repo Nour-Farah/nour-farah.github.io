@@ -6,7 +6,7 @@ images:
 title: Mouvo Poster Series
 status: inquire
 alt: A poster serires of the Annual Mouvo Conference
-order: 5
+order: 6
 featured: false
 protected: true
 ---
