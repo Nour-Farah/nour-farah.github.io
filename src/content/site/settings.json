@@ -53,7 +53,7 @@
     "type": {
       "headingFont": "Schibsted Grotesk",
       "bodyFont": "Space Grotesk",
-      "headingWeight": 600,
+      "headingWeight": 800,
       "bodyWeight": 400,
       "baseSize": 15,
       "headingTransform": "none",
