@@ -1,6 +1,6 @@
 ---
 image: ../../assets/artworks/benina-rebranding-package-redesign-kjb3aq.webp
-title: Benina Rebranding & Package Redesign
+title: Benina Re- branding & Package Redesign
 status: inquire
 alt: Benina Bag
 order: 0
