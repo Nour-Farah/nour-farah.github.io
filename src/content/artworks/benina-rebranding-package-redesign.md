@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/benina-rebranding-package-redesign-r20fyf.webp
+image: ../../assets/artworks/benina-rebranding-package-redesign-kjb3aq.webp
 title: Benina Rebranding & Package Redesign
 status: inquire
 alt: Benina Bag
