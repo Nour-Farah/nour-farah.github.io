@@ -1,6 +1,6 @@
 ---
 image: ../../assets/artworks/dock-d-brand-functional-package-w0rlm9.webp
-title: Dock'd Brand & Func- tionalPackage
+title: Dock'd Brand & Func- tional Package
 status: inquire
 alt: Dockd Thumbnail
 order: 1
