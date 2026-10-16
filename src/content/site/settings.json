@@ -65,7 +65,7 @@
       "shadows": "hard"
     },
     "density": "airy",
-    "contentWidth": "normal",
+    "contentWidth": "wide",
     "readingWidth": "relaxed",
     "motion": "rigid",
     "nav": {
@@ -87,7 +87,7 @@
     },
     "gallery": {
       "layout": "cinematic",
-      "size": "large",
+      "size": "medium",
       "gutter": "normal",
       "caption": "hover",
       "cardStyle": "card",
