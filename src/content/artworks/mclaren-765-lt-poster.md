@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/mclaren-765-lt-poster-34aw0f.webp
+image: ../../assets/artworks/mclaren-765-lt-poster-9lgekk.webp
 images:
   - ../../assets/artworks/mclaren-765-lt-poster-83p9vq.webp
 title: Mclaren 765 LT Poster
