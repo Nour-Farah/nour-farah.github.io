@@ -65,7 +65,7 @@
       "shadows": "hard"
     },
     "density": "airy",
-    "contentWidth": "normal",
+    "contentWidth": "wide",
     "readingWidth": "relaxed",
     "motion": "rigid",
     "nav": {
@@ -86,7 +86,7 @@
       "hover": "zoom"
     },
     "gallery": {
-      "layout": "cinematic",
+      "layout": "masonry",
       "size": "medium",
       "gutter": "normal",
       "caption": "hover",
@@ -94,7 +94,7 @@
       "captionDetail": "minimal",
       "captionOverlay": "surface",
       "featureFirst": false,
-      "adaptiveSpans": true,
+      "adaptiveSpans": false,
       "click": "page",
       "filters": false
     },
