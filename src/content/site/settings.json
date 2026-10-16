@@ -65,7 +65,7 @@
       "shadows": "hard"
     },
     "density": "airy",
-    "contentWidth": "wide",
+    "contentWidth": "normal",
     "readingWidth": "relaxed",
     "motion": "rigid",
     "nav": {
