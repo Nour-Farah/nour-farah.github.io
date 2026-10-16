@@ -55,7 +55,7 @@
       "bodyFont": "Space Grotesk",
       "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 17,
+      "baseSize": 15,
       "headingTransform": "none",
       "letterSpacing": -0.01
     },
