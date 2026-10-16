@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/we-re-still-standing-poster-series-oivug7.webp
+image: ../../assets/artworks/we-re-still-standing-poster-series-pvuhf2.webp
 images:
   - ../../assets/artworks/we-re-still-standing-poster-series-7k7319.webp
 title: We're Still Standing Poster Series
