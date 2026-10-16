@@ -1,7 +1,7 @@
 ---
 image: ../../assets/artworks/dock-d-brand-functional-package-w0rlm9.webp
 title: Dock'd Brand & Functional Package
-status: sold
+status: nfs
 alt: Dockd Thumbnail
 order: 1
 featured: false
