@@ -120,7 +120,7 @@
       "news": false,
       "available": false,
       "presskit": false,
-      "commissions": true,
+      "commissions": false,
       "shop": false,
       "projects": false,
       "stockists": false
