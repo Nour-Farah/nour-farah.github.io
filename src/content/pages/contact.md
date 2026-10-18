@@ -1,5 +1,6 @@
 ---
 title: Contact
+email: hello@nourfarah.com
 formEnabled: false
 ---
 
