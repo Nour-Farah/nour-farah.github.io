@@ -5,7 +5,7 @@ statement: Brand & Packaging Designer, Also an Artist
 
 I'm a graphic designer by day, but I'm mainly a graphic designer by night
 
-3+ years as a print designer & production specialist at Maliks Lebanon's leading print shop
+3+ years as a print designer & production specialist at Maliks, Lebanon's leading print shop
 
 Somewhere between branding, print, and the occasional creative detour
 
