@@ -40,14 +40,14 @@
   "design": {
     "preset": "bauhaus",
     "color": {
-      "background": "#1b2021",
-      "surface": "#343434",
-      "text": "#ffffff",
-      "muted": "#fec8cd",
+      "background": "#131200",
+      "surface": "#232300",
+      "text": "#f0eff4",
+      "muted": "#f0eff4",
       "accent": "#ffff00",
       "accent2": "#ff5666",
-      "border": "#ffffff",
-      "link": "#1235d6",
+      "border": "#f0eff4",
+      "link": "#ffff00",
       "heading": "#ffff00"
     },
     "type": {
