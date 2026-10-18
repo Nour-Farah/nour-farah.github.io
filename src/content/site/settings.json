@@ -40,15 +40,15 @@
   "design": {
     "preset": "bauhaus",
     "color": {
-      "background": "#f5f1e6",
-      "surface": "#ffffff",
-      "text": "#16181d",
-      "muted": "#57564f",
-      "accent": "#1235d6",
-      "accent2": "#e61304",
-      "border": "#16181d",
+      "background": "#1b2021",
+      "surface": "#343434",
+      "text": "#ffffff",
+      "muted": "#fec8cd",
+      "accent": "#ffff00",
+      "accent2": "#ff5666",
+      "border": "#ffffff",
       "link": "#1235d6",
-      "heading": "#16181d"
+      "heading": "#ffff00"
     },
     "type": {
       "headingFont": "Schibsted Grotesk",
