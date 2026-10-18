@@ -72,7 +72,7 @@
       "layout": "side"
     },
     "home": {
-      "landing": "about"
+      "landing": "work"
     },
     "logo": {
       "mode": "image",
@@ -109,7 +109,8 @@
     },
     "footer": {
       "socials": true,
-      "credit": true
+      "credit": true,
+      "text": "Like what you see? ➜"
     },
     "favicon": {
       "mode": "image",
