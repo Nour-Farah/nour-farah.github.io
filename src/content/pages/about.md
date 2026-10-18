@@ -3,7 +3,7 @@ title: About
 statement: Brand & Packaging Designer, Also an Artist
 ---
 
-I'm graphic designer by day, but I'm mainly a graphic designer by night
+I'm a graphic designer by day, but I'm mainly a graphic designer by night
 
 3+ years as a print designer & production specialist at Maliks Lebanon's leading print shop
 
