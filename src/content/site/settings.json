@@ -52,7 +52,7 @@
     },
     "type": {
       "headingFont": "Schibsted Grotesk",
-      "bodyFont": "Space Grotesk",
+      "bodyFont": "popins",
       "headingWeight": 800,
       "bodyWeight": 400,
       "baseSize": 15,
