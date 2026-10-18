@@ -7,6 +7,7 @@ images:
 title: Ferrari Poster Series
 status: inquire
 alt: Poster Series of Ferrari La Ferrari
+collection: posters
 order: 4
 featured: false
 protected: true
