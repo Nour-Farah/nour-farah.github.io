@@ -40,8 +40,8 @@
   "design": {
     "preset": "bauhaus",
     "color": {
-      "background": "#050505",
-      "surface": "#080808",
+      "background": "#080808",
+      "surface": "#000000",
       "text": "#ffffff",
       "muted": "#ffffff",
       "accent": "#ffffff",
