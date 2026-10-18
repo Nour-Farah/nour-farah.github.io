@@ -48,12 +48,17 @@ const { useNetlifyForms } = hostConfig();
         <button type="submit" class="ez-btn ez-btn--primary">Send message</button>
       </HostForm>
     )}
+
+{/*
+
     {data.formEnabled && !useNetlifyForms && (
       <p class="ez-contact__formnote">
         Messages are delivered straight to your inbox by FormSubmit, a free form service.
         The first message you receive will ask you to confirm your address once.
       </p>
     )}
+
+*/}
 
     {settings.newsletterEnabled && (
       <NewsletterSignup
