@@ -3,7 +3,8 @@ title: About
 statement: Brand & Packaging Designer, Also an Artist
 ---
 
-I'm graphic designer by day, but I'm mainly a graphic designer by night
+I'm graphic designer by day, 
+but I'm mainly a graphic designer by night
 
 Somewhere between branding, print, and the occasional creative detour
 
