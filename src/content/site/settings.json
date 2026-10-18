@@ -125,7 +125,7 @@
       "news": false,
       "available": false,
       "presskit": false,
-      "commissions": false,
+      "commissions": true,
       "shop": false,
       "projects": false,
       "stockists": false
