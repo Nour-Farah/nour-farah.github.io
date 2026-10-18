@@ -11,4 +11,4 @@ Big on bold typography, clever concepts, and the little details that make a big 
 
 Check out my work <a href="https://nourfarah.com/work/"> Here </a>
 
-I also do some Art (<a href=""> some Art </a>)
+I also do some Art
