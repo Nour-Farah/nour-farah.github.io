@@ -40,13 +40,13 @@
   "design": {
     "preset": "bauhaus",
     "color": {
-      "background": "#000014",
-      "surface": "#000000",
+      "background": "#000000",
+      "surface": "#141414",
       "text": "#f0eff4",
       "muted": "#f0eff4",
       "accent": "#ffff00",
       "accent2": "#ff5666",
-      "border": "#f0eff4",
+      "border": "#ffff00",
       "link": "#ffff00",
       "heading": "#ffff00"
     },
