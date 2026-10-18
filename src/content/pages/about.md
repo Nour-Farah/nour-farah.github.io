@@ -1,6 +1,6 @@
 ---
 title: About
-statement: Brand & Packaging Designer | Also an Artist
+statement: Brand & Packaging Designer, Also an Artist
 ---
 
 Graphic designer by day, but mainly a graphic designer by night
