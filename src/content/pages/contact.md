@@ -1,6 +1,6 @@
 ---
 title: Contact
-intro: Why so hesitant? Contact through <a href="https://wa.me/96171772537"> 71 772 537 </a> or using the form below
+intro: Why so hesitant? Phone number's in the footer ;)
 email: hello@nourfarah.com
 formEnabled: true
 ---
