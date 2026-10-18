@@ -41,12 +41,12 @@
     "preset": "bauhaus",
     "color": {
       "background": "#000000",
-      "surface": "#141414",
-      "text": "#f0eff4",
-      "muted": "#f0eff4",
-      "accent": "#ffff00",
+      "surface": "#050505",
+      "text": "#ffffff",
+      "muted": "#ffffff",
+      "accent": "#ffffff",
       "accent2": "#ff5666",
-      "border": "#ffff00",
+      "border": "#ffffff",
       "link": "#ffff00",
       "heading": "#ffff00"
     },
