@@ -5,6 +5,7 @@ images:
 title: Mclaren 765 LT Poster
 status: inquire
 alt: Mclaren 765 LT Poster
+collection: posters
 order: 4
 featured: false
 protected: true
