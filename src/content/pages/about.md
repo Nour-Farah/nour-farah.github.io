@@ -13,6 +13,6 @@ Big on bold typography, clever concepts, and the little details that make a big 
 
 I'd rather you check out my work (where you were just at)<a href="https://nourfarah.com/work/" target="_blank"> Here ↗</a>
 
-But if you insist ➜ <a href="Markdown_Assets/Nour Farah.pdf" download="Nour Farah.pdf"> CV </a>
+But if you insist ➜ <a href="https://drive.google.com/file/d/1uj-wQV-DlohMLiegiHgAdEvtxzxT9Cxv/view?usp=sharing" download > CV </a>
 
 I also do some Art
