@@ -11,7 +11,7 @@ Somewhere between branding, print, and the occasional creative detour
 
 Big on bold typography, clever concepts, and the little details that make a big difference
 
-I'd rather you check out my <a href="https://nourfarah.com/work/" target="_blank"> work </a>
+I'd rather you check out my <a href="https://nourfarah.com/work/" target="_blank"> work </a> <br>
 (where you were just at)
 
 But if you insist ➜ <a href="https://drive.google.com/file/d/1CG6WySwMMuH8ijw8pkwyEb5qUZIOrCwf/view?usp=sharing" target="_blank" > CV </a>
