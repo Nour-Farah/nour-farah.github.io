@@ -1,7 +1,7 @@
 ---
 image: ../../assets/artworks/weight-your-words-visual-identity-poster-design-xshimm.webp
 title: Weight Your Words Visual Identity & Poster Design
-status: available
+status: inquire
 alt: A poster on blue background
 order: 0
 featured: false
