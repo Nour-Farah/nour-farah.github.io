@@ -3,7 +3,7 @@ image: ../../assets/artworks/bus-n-burger-brand-identity-functional-package-4ac7
 title: Bus N' Burger Brand Identity & Functional Package
 status: inquire
 alt: A person handing a paper bag to a lady
-order: 0
+order: 4
 featured: false
 protected: true
 ---
