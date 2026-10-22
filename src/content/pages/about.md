@@ -13,6 +13,6 @@ Big on bold typography, clever concepts, and the little details that make a big 
 
 I'd rather you check out my <a href="https://nourfarah.com/work/" target="_blank"> work </a> (where you were just at)
 
-But if you insist ➜ <a href="https://drive.google.com/file/d/1iRl7A7SOgNrnThRCm5TSuDyg61ZqxDFf/view?usp=sharing" target="_blank" > CV </a>
+But if you insist ➜ <a href="https://drive.google.com/file/d/1Qxk4nRv6r1fQm_wunJqDoBrWUAplju2j/view?usp=sharing" target="_blank" > CV </a>
 
 I also do some Art
