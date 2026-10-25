@@ -3,7 +3,7 @@ image: ../../assets/artworks/forn-beaino-visual-direction-social-media-dpfhft.we
 title: Forn Beaino - Visual Direction & Social Media
 status: inquire
 alt: Young woman in a swim ring
-order: 1
+order: 0
 featured: false
 protected: true
 ---
@@ -20,7 +20,9 @@ That made this project less about fixing what was broken and more about explorin
 
 How could its existing character be expressed through a different visual language?Could typography, graphic elements, and food photography bring a new layer of personality to its social media while staying true to what makes fornbeaino, fornbeaino?
 
+
 ---
+
 
 Currently, the brand only has one design element: 
 
@@ -67,5 +69,4 @@ New design element serving as guides for text expressions and framing the human 
 All these different aspects combine to create a cohesive visual brand identity that serves furnbeaino and it’s core values
 
 ![FB5](https://res.cloudinary.com/iquk7s3z/image/upload/v1792966501/FB-05.webp)
-
 ![FB6](https://res.cloudinary.com/iquk7s3z/image/upload/v1792966502/FB-06.webp)
