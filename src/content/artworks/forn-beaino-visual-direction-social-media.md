@@ -71,6 +71,6 @@ New design element serving as guides for text expressions and framing the human 
 All these different aspects combine to create a cohesive visual brand identity that serves furnbeaino and it’s core values
 
 ![FB5](https://res.cloudinary.com/iquk7s3z/image/upload/v1792968378/FB-05.webp)
-![FB6](https://res.cloudinary.com/iquk7s3z/image/upload/v1792968391/FB-07.webp)
-![FB7](https://res.cloudinary.com/iquk7s3z/image/upload/v1792967829/FB-07.webp)
-![FB8](https://res.cloudinary.com/iquk7s3z/image/upload/v1792968364/FB-08.webp)
+![FB6](https://res.cloudinary.com/iquk7s3z/image/upload/v1792967811/FB-06.webp)
+![FB7](https://res.cloudinary.com/iquk7s3z/image/upload/v1792968391/FB-07.webp)
+![FB8](https://res.cloudinary.com/iquk7s3z/image/upload/v1792968795/FB-08.webp)
