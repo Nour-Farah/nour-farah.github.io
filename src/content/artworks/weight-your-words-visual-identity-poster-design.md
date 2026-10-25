@@ -3,7 +3,7 @@ image: ../../assets/artworks/weight-your-words-visual-identity-poster-design-xsh
 title: Weight Your Words Visual Identity & Poster Design
 status: inquire
 alt: A poster on blue background
-order: 4
+order: 5
 featured: false
 protected: true
 ---

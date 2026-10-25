@@ -3,7 +3,7 @@ image: ../../assets/artworks/forn-beaino-visual-direction-social-media-dpfhft.we
 title: Forn Beaino - Visual Direction & Social Media
 status: inquire
 alt: Young woman in a swim ring
-order: 0
+order: 1
 featured: false
 protected: true
 ---
