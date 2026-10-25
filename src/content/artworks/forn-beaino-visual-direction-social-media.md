@@ -18,7 +18,9 @@ fornbeaino already has a well-established visual identity, one that reflects the
 
 That made this project less about fixing what was broken and more about exploring what else the brand could be
 
-How could its existing character be expressed through a different visual language?Could typography, graphic elements, and food photography bring a new layer of personality to its social media while staying true to what makes fornbeaino, fornbeaino?
+How could its existing character be expressed through a different visual language?
+
+Could typography, graphic elements, and food photography bring a new layer of personality to its social media while staying true to what makes fornbeaino, fornbeaino?
 
 
 ---
@@ -69,4 +71,6 @@ New design element serving as guides for text expressions and framing the human 
 All these different aspects combine to create a cohesive visual brand identity that serves furnbeaino and it’s core values
 
 ![FB5](https://res.cloudinary.com/iquk7s3z/image/upload/v1792966501/FB-05.webp)
-![FB6](https://res.cloudinary.com/iquk7s3z/image/upload/v1792966502/FB-06.webp)
+![FB6](https://res.cloudinary.com/iquk7s3z/image/upload/v1792967811/FB-06.webp)
+![FB7](https://res.cloudinary.com/iquk7s3z/image/upload/v1792967829/FB-07.webp)
+![FB8](https://res.cloudinary.com/iquk7s3z/image/upload/v1792967812/FB-08.webp)
