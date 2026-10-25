@@ -3,6 +3,7 @@ image: ../../assets/artworks/the-cylinder-and-the-cube-63hes7.webp
 title: 3Ds Max Animation - The Cylinder and The Cube
 status: inquire
 alt: The Title of a 3D animation
+video: https://youtu.be/7bOOMMzu5y4
 order: 5
 featured: false
 protected: true
