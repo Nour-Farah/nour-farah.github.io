@@ -1,6 +1,6 @@
 ---
 title: About
-statement: Brand & Packaging Designer, Also an Artist
+statement: Graphic Designer ^_^ Branding, Packaging & Social Media
 ---
 
 I'm a graphic designer by day, but I'm mainly a graphic designer by night
@@ -13,6 +13,4 @@ Big on bold typography, clever concepts, and the little details that make a big 
 
 I'd rather you check out my <a href="https://nourfarah.com/work/" target="_blank"> work </a> (where you were just at)
 
-But if you insist ➜ <a href="https://drive.google.com/file/d/17Llu5-1zSxIoBF3jTk2WWxI4rYHffLK3/view?usp=sharing" target="_blank" > CV </a>
-
-I also do some Art
+But if you insist ➜ <a href="https://drive.google.com/file/d/13UVsr_4nVCWg7xFvJUGaa-OamcuSBpJb/view?usp=sharing" target="_blank" > CV </a>
