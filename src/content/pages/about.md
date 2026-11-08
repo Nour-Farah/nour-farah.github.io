@@ -1,6 +1,6 @@
 ---
 title: About
-statement: Graphic Designer ^_^ Social Media, Branding & Packaging
+statement: Graphic Designer - Branding, Packaging & Social Media
 ---
 
 I'm a graphic designer by day, but I'm mainly a graphic designer by night
